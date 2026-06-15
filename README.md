@@ -3,7 +3,7 @@
 Langkah 1: Persiapan Awal
 
 - 📥 Unduh file instalasi dari repositori ini di GitHub 
-   [er4files](https://github.com/er4files/Rumah-Laundry-Aplikasi-Web).
+   [er4files](https://https://github.com/nizamzou223/laundry-app).
 - 📂 Ekstrak file zip yang telah diunduh ke dalam satu folder. 
    Beri nama folder tersebut sebagai "rumah_laundry".
 - 📁 Pindahkan folder "rumah_laundry" ke dalam direktori xampp/htdocs/.
